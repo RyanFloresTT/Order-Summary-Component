@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop Version - (./images/ordersummarycomponent.png)
+- Desktop Version - ![](./images/ordersummarycomponent.png)
 
 ### Links
 
