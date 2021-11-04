@@ -1,0 +1,92 @@
+body {
+    text-align: center;
+    font-family: "Red Hat Display";
+    background-color: hsl(225, 100%, 94%);
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: repeat-x;
+}
+
+
+h2 {
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+p {
+    font-weight: 700;
+    font-size: 16px;
+    color: gray;
+}
+
+table {
+    position: relative;
+    margin: auto;
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 15px;
+}
+
+.cancelorderlink {
+    padding: 10px;
+    text-decoration: none;
+    color: gray;
+    font-weight: 900;
+}
+
+.changelink {
+    padding: 0 25px;
+}
+
+.icon-music {
+    padding-left: 25px;
+}
+
+.illustration-hero {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin: 0 auto;
+}
+
+.orderbackground {
+    position: relative;
+    top: 100px;
+    background-color: white;
+    width: 450px;
+    margin: 0 auto 0 auto;
+    border-radius: 25px;
+    height: 700px;
+}
+
+.ordersum {
+    margin: 50px auto 20px auto;
+    font-size: 2rem;
+    color: hsl(223, 47%, 23%);
+}
+
+.plantext {
+    margin: 10px 0 0 0;
+    padding: 5px 25px;
+}
+
+.planchange {
+    position: relative;
+    margin: auto;
+}
+
+.paymentbutton {
+    position: relative;
+    width: 70%;
+    padding: 10px;
+    margin: 30px auto;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    border-radius: 10px;
+}
+
+.summaryp {
+    margin: 0 auto 30px auto;
+    max-width: 300px;
+}
