@@ -26,6 +26,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [https://order-summary-component-ten-kappa.vercel.app/](https://order-summary-component-ten-kappa.vercel.app/)
+- Soltuion URL : [https://www.frontendmentor.io/solutions/responsive-landing-page-38wdTXISv](https://www.frontendmentor.io/solutions/responsive-landing-page-38wdTXISv)
 
 ### Built with
 
